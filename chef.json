@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "chefName": "Sanjeev Kapoor",
+    "yearsOfExperience": 35,
+    "numRecipes": 1000,
+    "likes": 50000,
+    "pictureUrl": "https://i.ibb.co/pZYXYsT/Chef-Sanjeev-Kapoor-4-of-7.png"
+  },
+  {
+    "id": 2,
+    "chefName": "Tarla Dalal",
+    "yearsOfExperience": 50,
+    "numRecipes": 500,
+    "likes": 25000,
+    "pictureUrl": "https://i.ibb.co/fMrZjmH/Huma-Qureshi.png"
+  },
+  {
+    "id": 3,
+    "chefName": "Vikas Khanna",
+    "yearsOfExperience": 25,
+    "numRecipes": 300,
+    "likes": 15000,
+    "pictureUrl": "https://i.ibb.co/yNjn4SY/chief-4.png"
+  },
+  {
+    "id": 4,
+    "chefName": "Madhur Jaffrey",
+    "yearsOfExperience": 50,
+    "numRecipes": 200,
+    "likes": 10000,
+    "pictureUrl": "https://i.ibb.co/smVx1ZY/Madhur-Jaffrey.png"
+  },
+  {
+    "id": 5,
+    "chefName": "Ranveer Brar",
+    "yearsOfExperience": 20,
+    "numRecipes": 150,
+    "likes": 8000,
+    "pictureUrl": "https://i.ibb.co/rsQ5499/chief-3.png"
+  },
+  {
+    "id": 6,
+    "chefName": "Shipra Khanna",
+    "yearsOfExperience": 15,
+    "numRecipes": 100,
+    "likes": 5000,
+    "pictureUrl": "https://i.ibb.co/bbqpsJ0/shipra-khanna.png"
+  }
+]
